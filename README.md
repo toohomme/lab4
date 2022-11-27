@@ -87,11 +87,11 @@ OR, AND, NAND, XOR.
 
 ### Подбираем количество эпох для операции:
 
-6 эпох:
+4 эпохa:
 
 ![image](https://user-images.githubusercontent.com/102966721/204114175-80abdf4d-dd9b-413c-ba2d-91f8a9973021.png)
 
-### Вывод: перцептрон учится работать с операцией NAND с 6 эпохи.
+### Вывод: перцептрон учится работать с операцией NAND с 4 эпохи.
 
 ## Операция XOR
 
@@ -116,6 +116,7 @@ OR, AND, NAND, XOR.
 
 ![image](https://user-images.githubusercontent.com/102966721/204115706-ff92aa7b-6af5-47f3-b5ef-16c068d3e154.png)
 
+![image](https://user-images.githubusercontent.com/102966721/204115789-42223a03-4e11-4b0f-b99e-3e4a386ebf63.png)
 
 ## Задание 3
 ---
