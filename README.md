@@ -114,6 +114,7 @@ OR, AND, NAND, XOR.
 
 ![image](https://user-images.githubusercontent.com/102966721/204115572-bff62ed9-7655-484b-9d1d-8e73403079b9.png)
 
+![image](https://user-images.githubusercontent.com/102966721/204115706-ff92aa7b-6af5-47f3-b5ef-16c068d3e154.png)
 
 
 ## Задание 3
