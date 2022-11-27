@@ -44,15 +44,18 @@ OR, AND, NAND, XOR.
 Задаем количество эпох и подбираем то, при котором перцептрон обучится работать с операцией: 
 
 1 эпоха:
+
 ![image](https://user-images.githubusercontent.com/102966721/204113815-4cae8670-7f71-4287-972d-d72f2878cd9a.png)
 
 2 эпохи:
+
 ![image](https://user-images.githubusercontent.com/102966721/204113935-3aa5f1a7-1fc9-4b36-ac45-3d50c7426a51.png)
 
 4 эпохи:
+
 ![image](https://user-images.githubusercontent.com/102966721/204113948-169b323f-8d7a-4385-86ee-835d89f26ab6.png)
 
-Вывод: перцептрон учится работать с операцией OR с 4 эпохи.
+### Вывод: перцептрон учится работать с операцией OR с 4 эпохи.
 
 ## Операция AND 
 
@@ -63,16 +66,18 @@ OR, AND, NAND, XOR.
 Задаем количество эпох и подбираем то, при котором перцептрон обучится работать с операцией:
 
 1 эпоха:
+
 ![image](https://user-images.githubusercontent.com/102966721/204114059-3a7f355c-b53e-45bc-85cb-a29d12e08214.png)
 
 2 эпохи:
+
 ![image](https://user-images.githubusercontent.com/102966721/204114081-c18dd47c-22ea-434c-8113-9a92dbd6daef.png)
 
 6 эпох:
 
 ![image](https://user-images.githubusercontent.com/102966721/204114117-2f0c11c0-8213-4228-9f2a-4e7dd59a0f31.png)
 
-Вывод: перцептрон учится работать с операцией AND с 6 эпохи.
+### Вывод: перцептрон учится работать с операцией AND с 6 эпохи.
 
 ## Операция NAND
 
@@ -86,7 +91,7 @@ OR, AND, NAND, XOR.
 
 ![image](https://user-images.githubusercontent.com/102966721/204114175-80abdf4d-dd9b-413c-ba2d-91f8a9973021.png)
 
-Вывод: перцептрон учится работать с операцией NAND с 6 эпохи.
+### Вывод: перцептрон учится работать с операцией NAND с 6 эпохи.
 
 ## Операция XOR
 
